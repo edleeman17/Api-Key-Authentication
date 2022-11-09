@@ -34,8 +34,8 @@ I've created a brand new project with OpenAPI support enabled. This means that w
 For housekeeping reasons, I'm going to create a new directory named `Authentication`.
 
 Create the following classes under that directory:
-- `ApiKeyEuthenticationHandler.cs`
-- `ApiKeyEuthenticationOptions.cs`
+- `ApiKeyAuthenticationHandler.cs`
+- `ApiKeyAuthenticationOptions.cs`
 - `AuthenticationBuilderExtensions.cs`
 - `UnauthorisedProblemDetails.cs`
 
